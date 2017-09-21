@@ -1,2 +1,3 @@
 # Proyecto2_Micros
 Ajedrez Automatico
+ESTEB, JUAN DAVID SALAZAR, ANDRES FELIPE LOPEZ
